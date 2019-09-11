@@ -4,6 +4,7 @@ body {
     line-height: 34px;
     color: #777777;
     background: url("../images/concrete_seamless.png");
+    /* background-color: blanchedalmond */
   }
   
   html {   
@@ -47,6 +48,8 @@ body {
   }
    .port{
     box-shadow: .2rem .2rem .2rem darkslategray;
+    height: 200px;
+    width: 200px;
   }
   img:hover{
 transform: scale(1.05);
